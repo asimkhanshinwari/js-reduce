@@ -10,7 +10,7 @@
                 return output += products[i].price
             }
             console.log(output) */
-
+                                           this is object destructering
     let asim = {
         name: 'asim',
         age: 22,
